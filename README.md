@@ -6,7 +6,6 @@
 
 An intelligent machine learning web application that accurately predicts real estate prices based on key property features. This project demonstrates a complete end-to-end ML pipeline, from data analysis to deployed product.
 
-🌐 **Live Demo:** [https://housepricesage.streamlit.app](https://housepricesage.streamlit.app)
 
 ## ✨ Features
 
